@@ -6,7 +6,7 @@ A c++ script for centering a line to the console in one simple call.
 
 Just copy the CentreText header and cpp files to your working directory and call.
 
-See the [ConsoleCentre.cpp](ConsoleCentre/ConsoleCentre.cpp) file for execution of various problems and the levelmap.h and levelmap.cpp for an example execution.
+See the [ConsoleCentre.cpp](ConsoleCentre/ConsoleCentre.cpp) file for execution
 
 ## Authors
 
